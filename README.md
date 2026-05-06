@@ -1,4 +1,4 @@
-# Website-Toko-HP-Second
+# Website FrontEnd HTML - Toko HP Second
 Front End Website Toko HP Second Menggunakan HTML, CSS, dan JavaScript
 
 Installasi:
